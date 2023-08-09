@@ -21,8 +21,8 @@
 
 <div align="center">
   <a href="https://github.com/BuenoOtavio">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=buenootavio&show_icons=true&theme=synthwave">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buenootavio&theme=synthwave">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=buenootavio&show_icons=true&theme=jolly">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buenootavio&theme=jolly">
 </div>
 
 ### 
