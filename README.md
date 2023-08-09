@@ -43,3 +43,15 @@
 <img align="center" alt="Sql" height="30" width="30" src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png">-
 <img align="center" alt="Python" height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png">
 </div>
+
+###
+
+
+### Credits To:
+
+
+<div>
+  <a href="https://www.youtube.com/watch?v=TsaLQAetPLU" target="_blank"><p>• Rafa Ballerini</p></a>
+  <a href="https://www.youtube.com/watch?v=cRoBt6AZgjc" target="_blank"><p>• Sujeito Programador</p></a>
+   <a href="https://www.youtube.com/watch?v=edERBwvBW2s" target="_blank"><p>• Caroline Barbosa</p></a>
+</div>
