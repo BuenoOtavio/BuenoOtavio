@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello There! My name is <a href="https://www.linkedin.com/in/otavio-lima-bueno-642750287/"><i>Otavio Bueno!!</i></a> ✌</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&weight=700&size=30&pause=1000&color=F8F8F8&width=435&lines=++++++++++++++++Hello+There!!;+++My+name+is+Otavio+Bueno!!;+++++++Welcome+to+my+profile!!" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -30,6 +30,14 @@
 <div>
   <a href="https://github.com/BuenoOtavio">
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BuenoOtavio&bg_color=20181c&color=9e4c98&line=630c92&point=b62087&area=true&hide_border=true">
+</div>
+
+###
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
 
 ###
