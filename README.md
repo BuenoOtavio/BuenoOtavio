@@ -1,4 +1,4 @@
-<div style=" color:pink">
+<div>
   <h1>Hello There! My name is Otavio Bueno!</h1>
 </div>
 
