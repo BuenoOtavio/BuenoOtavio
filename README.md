@@ -1,8 +1,8 @@
-<div>
-  <h1>Hello There! My name is Otavio Bueno!</h1>
+<div align="center">
+  <h1>Hello There! My name is <a href="https://www.linkedin.com/in/otavio-lima-bueno-642750287/"><i>Otavio Bueno!!</i></a> ✌</h1>
 </div>
 
-<div>
+<div align="center">
   <p>• Development System Student 🌐🖥</p>
 
   <p>• Pronouns: He/Him</p>
@@ -10,16 +10,16 @@
   <p>• Jaguariúna, SP, Brazil 🚩</p>
 </div>
 
-### You can find me at:
 
-<div>
+<div align="center">
+  <h1>You can find me at:</h1>
   <a href="https://www.instagram.com/otavio.lb/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/otavio-lima-bueno-642750287/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ###   
 
-<div>
+<div align="center">
   <a href="https://github.com/BuenoOtavio">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=buenootavio&show_icons=true&theme=synthwave">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buenootavio&theme=synthwave">
@@ -34,8 +34,8 @@
 
 ###
 
-### Learning:
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center">
+<h1>Learning:</h1>
 <img align="center" alt="Js" height="30" width="30" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg">-
 <img align="center" alt="Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">-
 <img align="center" alt="Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">-
@@ -44,14 +44,11 @@
 <img align="center" alt="Python" height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png">
 </div>
 
-###
 
+<div align="center">
 
-### Credits To:
-
-
-<div>
+  <h1>Credits To:</h1>
   <a href="https://www.youtube.com/watch?v=TsaLQAetPLU" target="_blank"><p>• Rafa Ballerini</p></a>
   <a href="https://www.youtube.com/watch?v=cRoBt6AZgjc" target="_blank"><p>• Sujeito Programador</p></a>
-   <a href="https://www.youtube.com/watch?v=edERBwvBW2s" target="_blank"><p>• Caroline Barbosa</p></a>
+  <a href="https://www.youtube.com/watch?v=edERBwvBW2s" target="_blank"><p>• Caroline Barbosa</p></a>
 </div>
