@@ -10,6 +10,9 @@
   <p>• Jaguariúna, SP, Brazil 🚩</p>
 </div>
 
+<div align="center">
+  <img height="300em" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif">
+</div>
 
 <div align="center">
   <h1>You can find me at:</h1>
