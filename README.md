@@ -47,10 +47,11 @@
 
 <div style="display: inline_block" align="center">
 <h1>Learning:</h1>
-<img align="center" alt="Js" height="30" width="30" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg">-
-<img align="center" alt="Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">-
-<img align="center" alt="Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">-
-<img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-
-<img align="center" alt="Sql" height="30" width="30" src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png">-
-<img align="center" alt="Python" height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png">
+<img align="center" alt="Js" height="30" width="30" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg"> -
+<img align="center" alt="Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" >-
+<img align="center" alt="Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" >-
+<img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -
+<img align="center" alt="Python" height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png"> -
+<img align="center" alt="Java" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png"> -
+<img align="center" alt="Sql" height="30" width="30" src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png">
 </div><br><br>
