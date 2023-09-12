@@ -24,15 +24,15 @@
 
 <div align="center">
   <a href="https://github.com/BuenoOtavio">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BuenoOtavio&show_icons=true&theme=jolly">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuenoOtavio&theme=jolly">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=buenootavio&show_icons=true&theme=jolly">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buenootavio&theme=jolly">
 </div>
 
 ### 
 
 <div>
   <a href="https://github.com/BuenoOtavio">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=BuenoOtavio&bg_color=20181c&color=9e4c98&line=630c92&point=b62087&area=true&hide_border=true">
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=buenootavio&bg_color=20181c&color=9e4c98&line=630c92&point=b62087&area=true&hide_border=true">
 </div>
 
 ###
