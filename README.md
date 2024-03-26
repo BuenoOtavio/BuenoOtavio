@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=header"/>
+
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&weight=700&size=50&pause=1000&color=8E3CB8&center=true&vCenter=true&width=435&lines=Hello+There!!+%3AD;My+name+is+Otavio+Bueno!!;Welcome+to+my+profile!!+%3A)" alt="Typing SVG" /></a>
 </div>
@@ -54,4 +56,6 @@
 <img align="center" alt="Python" height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png"> -
 <img align="center" alt="Java" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png"> -
 <img align="center" alt="Sql" height="30" width="30" src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png">
-</div><br><br>
+</div><br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>
