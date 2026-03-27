@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <p>• System Development Student 🌐🖥</p>
+  <p>• Computation Student 🌐🖥</p>
 
   <p>• Pronouns: He/Him</p>
 
