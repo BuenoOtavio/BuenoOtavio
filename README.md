@@ -24,14 +24,6 @@
 
 ###   
 
-<div align="center">
-  <a href="https://github.com/BuenoOtavio">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=buenootavio&show_icons=true&theme=jolly">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buenootavio&theme=jolly">
-</div>
-
-### 
-
 <div>
   <a href="https://github.com/BuenoOtavio">
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=buenootavio&bg_color=20181c&color=9e4c98&line=630c92&point=b62087&area=true&hide_border=true">
@@ -54,8 +46,7 @@
 <img align="center" alt="Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" >-
 <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -
 <img align="center" alt="Python" height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png"> -
-<img align="center" alt="Java" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png"> -
-<img align="center" alt="Sql" height="30" width="30" src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png">
+<img align="center" alt="Java" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png">
 </div><br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>
