@@ -40,13 +40,16 @@
 ###
 
 <div style="display: inline_block" align="center">
-<h1>Learning:</h1>
+<h1>Knowledges:</h1>
 <img align="center" alt="Js" height="30" width="30" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg"> -
 <img align="center" alt="Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" >-
 <img align="center" alt="Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" >-
 <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -
 <img align="center" alt="Python" height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png"> -
-<img align="center" alt="Java" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png">
+<img align="center" alt="Java" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png"> -
+<img align="center" alt="Sql" height="30" width="30" src="https://github.com/user-attachments/assets/1282336b-e8b9-45bd-b096-e77095c2f323"> -
+<img align="center" alt="React" height="30" width="30" src="https://github.com/user-attachments/assets/35a74f4e-2b7f-4031-9195-43380fc52c7d"> -
+<img align="center" alt="NodeJs" height="30" width="30" src="https://github.com/user-attachments/assets/f550976a-be6a-4c2b-9acf-57f23b4d7610">
 </div><br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>
