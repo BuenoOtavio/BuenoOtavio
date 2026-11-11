@@ -24,13 +24,6 @@
 
 ###   
 
-<div>
-  <a href="https://github.com/BuenoOtavio">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=buenootavio&bg_color=20181c&color=9e4c98&line=630c92&point=b62087&area=true&hide_border=true">
-</div>
-
-###
-
 <div align="center">
   
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
@@ -41,7 +34,6 @@
 
 <div style="display: inline_block" align="center">
 <h1>Knowledges:</h1>
-<img align="center" alt="Js" height="30" width="30" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-23.jpg"> -
 <img align="center" alt="Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" >-
 <img align="center" alt="Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" >-
 <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -
